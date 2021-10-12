@@ -1,4 +1,4 @@
-# PacMan-Project
+# PacMan-Project-First-Animation
 
 ## Name : PacMan Animation
 
